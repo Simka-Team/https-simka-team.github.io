@@ -1,1 +1,1 @@
-# https-simka-team.github.io
+# simka-team.github.io
